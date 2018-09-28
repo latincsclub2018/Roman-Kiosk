@@ -1,0 +1,105 @@
+#lhs {
+	float: left;
+	width: 20%;
+}
+
+#btn {
+	width: 10px;
+	height: 10px;
+	margin-left: 10px;
+}
+
+button {
+    border-radius: 10px;
+    background-color: #FD6A02;
+    width: 70%;
+}
+
+#asdf {
+    border-radius: 10px;
+}
+
+.btnup {
+	background-image: url("uparrow.png");
+    background-repeat: no-repeat;
+}
+
+.btndown {
+	background-image: url("downarrow.png");
+    background-repeat: no-repeat;
+}
+
+#rhs {
+	float: right;
+}
+
+.orderButton {
+	background-color: blue;
+	height: 50px;
+	width: 100px;
+	border-radius: 10px;
+	text-align: center;
+	float: right;
+}
+
+.resetButton {
+	background-color: blue;
+	height: 50px;
+	width: 100px;
+	border-radius: 10px;
+	text-align: center;
+	float: right;
+}
+
+button * {
+	display: inline-block;
+}
+
+button {
+	display: block;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.addButton {
+	width: 20px;
+	height: 20px;
+	background-color: blue;
+}
+
+#orderContainer {
+	display: inline-block;
+}
+
+.addButton {
+    margin-bottom: 10px;
+}
+
+#orderContainer * {
+	display: inline;
+	font-size: 14px;
+}
+
+textarea {
+	margin-top: 5px;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+#orderContainer {
+    text-align: center;
+    padding-left: 50px;
+}
+
+textarea {
+    margin-right: 10px;
+}
+
+/** {
+	display: none;
+}*/
+
+
